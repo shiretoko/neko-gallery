@@ -1,5 +1,18 @@
 🚀 NekoGallery v1.0.1 - The Global Update
 
+Many basic function update.
+ <img width="919" height="545" alt="Image 4-2-2569 BE at 21 05" src="https://github.com/user-attachments/assets/e62c4d24-3bc7-44e4-8a57-dd13c69a47d6" />
+
+Setting menu 
+<img width="915" height="541" alt="Image 4-2-2569 BE at 21 06" src="https://github.com/user-attachments/assets/c7ad05ed-9fb2-4b8b-8f76-892de8d89eb3" />
+
+<img width="496" height="345" alt="Image 4-2-2569 BE at 21 07" src="https://github.com/user-attachments/assets/74ef8c7a-a9e4-4175-a7bf-b90a1cb2d49f" />
+
+
+<img width="565" height="500" alt="Image 4-2-2569 BE at 21 06 (1)" src="https://github.com/user-attachments/assets/b12617a1-f9ca-459b-9ed8-c8497227416b" />
+
+
+
 🌍 Multi-language support: Now supports 12 languages including Thai, Japanese, Korean, German, and more. (English is default)
 
 ⚡ Bulk WebP Conversion: Added a new "Bolt" button to convert all source images in your assets folder at once.
