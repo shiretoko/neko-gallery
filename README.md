@@ -1,3 +1,18 @@
+🚀 NekoGallery v1.0.1 - The Global Update
+
+🌍 Multi-language support: Now supports 12 languages including Thai, Japanese, Korean, German, and more. (English is default)
+
+⚡ Bulk WebP Conversion: Added a new "Bolt" button to convert all source images in your assets folder at once.
+
+🧹 Permanent Delete: Safely remove assets directly from the app (bypass system trash for speed).
+
+🔍 Smart Sorting & Filtering: Sort by name, size, or date, and filter to see only WebP or source images.
+
+📏 Dimension Display: View image dimensions (Width x Height) directly on each image card.
+
+📧 New Feedback Channel: Contact us at neko.studio.thailand@gmail.com
+
+
 # neko-gallery
 Official release repository for Neko Gallery. A lightweight Python-based image viewer for macOS. (Binary releases only)
 
